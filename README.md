@@ -5,3 +5,9 @@ We are a new organization focusing on Research & Develoment (R&D) of Integrated 
 We are interested in all IC R&D areas and will initially focus on Biomedical Applications. Our goal is to develop a framework where you can use open-source/proprietary Process Design Kits (PDKs) and open-source analog/digital blocks with open-source EDA tools to develop your ICs.
 
 More details coming soon!
+
+## Meet the Team
+
+| Members | Position | Website |
+| :-----: | :------: | :-----: |
+| Manuel Monge | Founder and CEO | [Personal Website](manuelmonge.site) |
