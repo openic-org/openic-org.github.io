@@ -10,4 +10,4 @@ More details coming soon!
 
 | Members | Position | Website |
 | :-----: | :------: | :-----: |
-| Manuel Monge | Founder and CEO | [Personal Website](manuelmonge.site) |
+| Manuel Monge | Founder and CEO | [manuelmonge.site](https://www.manuelmonge.site/) |
