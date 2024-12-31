@@ -53,3 +53,9 @@ description: Steps to validate your diploma for SUNEDU-Peru
 I have had issues when trying to pay for validation fees via _Pagalo.pe_. I used my US-based MC and Visa credit card without success. I also tried using my Debit Card from Peru and still got rejected.
 {% endhint %}
 
+Steps to make payment with help from a friend:
+
+1. Send DNI number
+2. Send money
+3. Ask to make payment on your request
+4. Ask to sent you back the receipt
