@@ -49,9 +49,8 @@ description: Steps to validate your diploma for SUNEDU-Peru
       1. [https://www.sunedu.gob.pe/procedimiento-de-reconocimiento-de-grados-y-titulos-extranjeros](https://www.sunedu.gob.pe/procedimiento-de-reconocimiento-de-grados-y-titulos-extranjeros)
       2. [https://www.sunedu.gob.pe/presentar-solicitud-reconocimiento-grados-titulos-forma-virtual/](https://www.sunedu.gob.pe/presentar-solicitud-reconocimiento-grados-titulos-forma-virtual/)
 
-{% hint style="info" %}
-I have had issues when trying to pay for validation fees via _Pagalo.pe_. I used my US-based MC and Visa credit card without success. I also tried using my Debit Card from Peru and still got rejected.
-{% endhint %}
+
+> I have had issues when trying to pay for validation fees via _Pagalo.pe_. I used my US-based MC and Visa credit card without success. I also tried using my Debit Card from Peru and still got rejected.
 
 Steps to make payment with help from a friend:
 
