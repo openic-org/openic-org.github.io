@@ -14,7 +14,7 @@ More details coming soon!
 
 ## NIH FCOI Policy
 
-[NIH FCOI Policy](/nih-fcoi-policy.md)
+[NIH FCOI Policy](https://openic.org/nih-fcoi-policy.md)
 
 ## Contact
 
