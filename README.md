@@ -12,6 +12,10 @@ More details coming soon!
 | :----------: | :-------------: | :-----------------------------------------------: |
 | Manuel Monge | Founder and CEO | [manuelmonge.site](https://www.manuelmonge.site/) |
 
+## NIH FCOI Policy
+
+[NIH FCOI Policy](/nih-fcoi-policy.md)
+
 ## Contact
 
 * For all inquiries, please contact [info@openic.org](mailto:info@openic.org)
