@@ -2,3 +2,5 @@ site_name: OpenIC
 site_url: https://openic.org
 theme:
   name: material
+  logo: assets/logo.png
+  
