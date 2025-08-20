@@ -1,6 +1,17 @@
 site_name: OpenIC
 site_url: https://openic.org
+site_author: Manuel Monge
+
+# Repository
+repo_name: openic-org/home
+repo_url: https://github.com/openic-org/home
+
+# Copyright
+copyright: Copyright &copy; 2024 - 2025 Manuel Monge
+
 theme:
   name: material
   logo: assets/logo.png
-  
+
+extra_css:
+  - stylesheets/extra.css
